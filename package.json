@@ -1,0 +1,25 @@
+{
+  "name": "sara-901",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @Sara-901 - 👀 I’m interested in development frontend - 🌱 I’m currently learning JavaScript, react - 😄 Pronouns: hardworking",
+  "homepage": "https://github.com/Sara-901/Sara-901#readme",
+  "bugs": {
+    "url": "https://github.com/Sara-901/Sara-901/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sara-901/Sara-901.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
